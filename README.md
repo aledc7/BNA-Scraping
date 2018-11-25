@@ -1,7 +1,7 @@
 # Banco Nacion Argentina - Web Scraping
-[x] aledc.com
-[x] MIT License
-[x] Tested Code
+- [x] aledc.com
+- [x] MIT License
+- [x] Tested Code
 
 ###### El siguiente código captura los datos de cualquier página mediante web scraping. En este ejemplo se logra capturar la cotización del Dolar Oficial publicada en el sitio web del Banco Nacion Argentina. 
 ##### Luego de extraidos los datos, se puede guardar en variables separadas la cotización de su interés, para así poder utilizarla en cualquier ambiente.
