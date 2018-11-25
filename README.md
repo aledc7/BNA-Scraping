@@ -1,4 +1,4 @@
-# BNA-Scraping
+# Banco Nacion Argentina - Web Scraping
 [x] aledc.com
 [x] MIT License
 [x] Tested Code
