@@ -10,7 +10,7 @@
 ###### Aquí el código, 100% funcional, con sus comentarios sobre cada linea.
 
 
-```
+```javascript
 <html>
  <head>
   <title>Web Scraping BNA - AleDC</title>
