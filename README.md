@@ -61,8 +61,6 @@ foreach($dom->getElementsByTagName('td') as $node)
 // para comprobar que se haya capturado el array completo, descomentar la linea de abajo.
 //    print_r($array);
 
-// $dolar_final = $array[2];
-// $dolar_compra = $array[2];
 return $array;
 
 }// fin funcion genera_dolar
@@ -71,10 +69,11 @@ return $array;
 // Ahora en la variable $array_dolar tendré todos los valores de la tabla capturada.
 // Para obtener valor por valor simplemente tengo que indicar el indice del array correspondiente.
 // Abajo está la Tabla 1.0 la cual indica el indice del array capturado.
+
 $array_dolar = genera_dolar($url);
 
 echo 'Dolar Banco Nacion Compra: ' . $array_dolar['1'] . '<br>';
-echo 'Dolar Banco Nacion Venta: ' . $array_dolar['2'];
+echo 'Dolar Banco Nacion Venta: '  . $array_dolar['2'];
 
 
 /*  Tabla 1.0 - Indice Array
