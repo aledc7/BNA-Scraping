@@ -126,7 +126,7 @@ echo "<p>Desarrollado por <b>Ale DC</b> &copy; " . date("Y") . "</p>";
 ```
 
 
-###### Eso es todo, saludos cordiales
+###### Eso es todo, saludos cordiales 
 
 
 
